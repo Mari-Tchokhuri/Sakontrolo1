@@ -41,3 +41,15 @@ class DetailItem : Fragment(R.layout.fragment_detail_item) {
 ⚠️ My laptop can not handle Android Studio
 ⚠️ I couldn't check and run the code
 
+
+## 🛠️ Tech stuff
+
+- Language: Kotlin / Java
+- Editor: Android Studio
+
+
+## 📦 Installation
+
+1. Clone the repository:
+    ```bash
+   git clone 
