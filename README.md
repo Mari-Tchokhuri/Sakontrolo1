@@ -52,4 +52,4 @@ class DetailItem : Fragment(R.layout.fragment_detail_item) {
 
 1. Clone the repository:
     ```bash
-   git clone 
+   git clone https://github.com/Mari-Tchokhuri/Sakontrolo1.git
